@@ -1,0 +1,6 @@
+enquire('objective')
+
+    wss: "#{meta.hostname}:#{meta.port}"
+
+    (i,o,u) -> 
+
