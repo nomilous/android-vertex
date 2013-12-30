@@ -7,7 +7,9 @@ enquire('objective')
         i, 'https://github.com/nomilous/facto/commit/29cd05bb785cc72c4514d10b1d910e0cc1049a2c'
 
         #
-        # .then(  ...  
+        # .then(  ...  ~>
+        #
+        # .[then](https://github.com/nomilous/corporation/commit/95434aa19c9c0578bf0f2aba00691e44a7e8e5f2)
         #
 
         o.subscribe
@@ -15,4 +17,15 @@ enquire('objective')
             uuid: "#{eo.uuid}"
 
             (info) -> 
+
+
+
+
+
+
+        #
+        # .then(  ...  
+        #
+
+        u.publish (vertex) -> 
 
