@@ -1,6 +1,6 @@
 enquire('objective')
 
-    wss: "#{meta.hostname}:#{meta.port}"
+    ws: "#{meta.hostname}:#{meta.port}"
 
     (i,o,u) -> 
 
